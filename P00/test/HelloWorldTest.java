@@ -18,8 +18,8 @@ public class HelloWorldTest {
 	public void test() {
 		//fail("Not yet implemented");
 		System.out.println("This is the testcase for HelloWorlds");
-		String str1="This is the testcase for HelloWorld";
-		String str2="This is the testcase for HelloWorld";
+		String str1="This is the testcase for HelloWorlds";
+		String str2="This is the testcase for HelloWorlds";
 		assertEquals(str1, str2);
 	}
 
